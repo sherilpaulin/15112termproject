@@ -1,0 +1,22 @@
+Saturday (4/23):
+Making other team players 4-6
+Placing other team and controls 6-9
+
+Sunday (4/24):
+Fixing shooting mode 2-7
+Fixing player movements 7-10
+
+Monday(4/25):
+Debugging 3-6
+Adding timer, pausing, starting 9-10
+
+Tuesday (4/26):
+Making help screens 4-5
+Adjusting collisions 5-7
+Adjusting player movements 7-10
+
+Wednesday (4/27):
+Making video 3-4
+Fixing collisions b/w goalie and players 4-6
+Fixing player movements 6-8
+
